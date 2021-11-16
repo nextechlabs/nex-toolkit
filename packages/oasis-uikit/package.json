@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap/uikit",
-  "version": "0.56.0",
-  "description": "Set of UI components for pancake projects",
+  "name": "@oasis-labs/uikit",
+  "version": "0.1.0",
+  "description": "Set of UI components for oasis labs projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "git@github.com:oasis-labs/oasis-toolkit.git",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
@@ -51,6 +51,7 @@
     "styled-system": "^5.1.5"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "restricted",
+    "registry":"https://npm.pkg.github.com"
   }
 }
