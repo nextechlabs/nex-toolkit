@@ -24,7 +24,8 @@ const StyledLink = styled(Link)`
     }
   }
   .desktop-icon {
-    width: 160px;
+    height: 80%;
+    width: 50px;
     display: none;
     ${({ theme }) => theme.mediaQueries.nav} {
       display: block;
@@ -134,23 +135,23 @@ const StyledLink = styled(Link)`
   }
 `;
 
-const Logo: React.FC<Props> = ({ href }) => {
+const Logo: React.FC<Props> = ({ isDark, href }) => {
   const isAbsoluteUrl = href.startsWith("http");
   const innerLogo = (
     <>
-      <LogoIcon className="mobile-icon" />
-      <LogoIcon className="desktop-icon"/>
+      <LogoIcon className="mobile-icon" isDark={isDark} />
+      <LogoIcon className="desktop-icon" isDark={isDark} />
     </>
   );
 
   return (
     <Flex>
       {isAbsoluteUrl ? (
-        <StyledLink as="a" href={href} aria-label="Pancake home page">
+        <StyledLink as="a" href={href} aria-label="Oasis home page">
           {innerLogo}
         </StyledLink>
       ) : (
-        <StyledLink to={href} aria-label="Pancake home page">
+        <StyledLink to={href} aria-label="Oasis home page">
           {innerLogo}
         </StyledLink>
       )}
