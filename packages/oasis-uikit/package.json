@@ -1,6 +1,6 @@
 {
   "name": "@oasis-labs/uikit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Set of UI components for oasis labs projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
