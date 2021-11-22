@@ -1,6 +1,6 @@
 {
   "name": "@oasis-labs/uikit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set of UI components for oasis labs projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -52,6 +52,6 @@
   },
   "publishConfig": {
     "access": "restricted",
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
