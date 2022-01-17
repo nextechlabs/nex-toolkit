@@ -1,5 +1,5 @@
 {
-  "name": "pancake-toolkit",
+  "name": "nextechlabs-toolkit",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
   "private": true,
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/nextechlabs/oasis-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
