@@ -1,16 +1,16 @@
 import fs from "fs";
 import path from "path";
 import { getAddress } from "@ethersproject/address";
-import pancakeswapDefault from "./tokens/pancakeswap-default.json";
-import pancakeswapExtended from "./tokens/pancakeswap-extended.json";
-import pancakeswapTop100 from "./tokens/pancakeswap-top-100.json";
-import pancakeswapTop15 from "./tokens/pancakeswap-top-15.json";
+import nexdexDefault from "./tokens/nexdex-default.json";
+import nexdexExtended from "./tokens/nexdex-extended.json";
+import nexdexTop100 from "./tokens/nexdex-top-100.json";
+import nexdexTop15 from "./tokens/nexdex-top-15.json";
 
 const lists = {
-  "pancakeswap-default": pancakeswapDefault,
-  "pancakeswap-extended": pancakeswapExtended,
-  "pancakeswap-top-100": pancakeswapTop100,
-  "pancakeswap-top-15": pancakeswapTop15
+  "nexdex-default": nexdexDefault,
+  "nexdex-extended": nexdexExtended,
+  "nexdex-top-100": nexdexTop100,
+  "nexdex-top-15": nexdexTop15
 };
 
 const checksumAddresses = (listName: string): void => {

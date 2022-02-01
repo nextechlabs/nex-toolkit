@@ -1,14 +1,14 @@
 import fs from "fs";
 import path from "path";
 import { TokenList } from "@uniswap/token-lists";
-import { version as pancakeswapDefaultVersion } from "../lists/pancakeswap-default.json";
-import { version as pancakeswapExtendedVersion } from "../lists/pancakeswap-extended.json";
-import { version as pancakeswapTop15Version } from "../lists/pancakeswap-top-15.json";
-import { version as pancakeswapTop100Version } from "../lists/pancakeswap-top-100.json";
-import pancakeswapDefault from "./tokens/pancakeswap-default.json";
-import pancakeswapExtended from "./tokens/pancakeswap-extended.json";
-import pancakeswapTop100 from "./tokens/pancakeswap-top-100.json";
-import pancakeswapTop15 from "./tokens/pancakeswap-top-15.json";
+import { version as nexdexDefaultVersion } from "../lists/nexdex-default.json";
+import { version as nexdexExtendedVersion } from "../lists/nexdex-extended.json";
+import { version as nexdexTop15Version } from "../lists/nexdex-top-15.json";
+import { version as nexdexTop100Version } from "../lists/nexdex-top-100.json";
+import nexdexDefault from "./tokens/nexdex-default.json";
+import nexdexExtended from "./tokens/nexdex-extended.json";
+import nexdexTop100 from "./tokens/nexdex-top-100.json";
+import nexdexTop15 from "./tokens/nexdex-top-15.json";
 
 export enum VersionBump {
   "major" = "major",
@@ -23,41 +23,41 @@ type Version = {
 };
 
 const lists = {
-  "pancakeswap-default": {
-    list: pancakeswapDefault,
-    name: "PancakeSwap Default",
-    keywords: ["pancakeswap", "default"],
+  "nexdex-default": {
+    list: nexdexDefault,
+    name: "NexDex Default",
+    keywords: ["nexdex", "default"],
     logoURI:
       "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     sort: false,
-    currentVersion: pancakeswapDefaultVersion,
+    currentVersion: nexdexDefaultVersion,
   },
-  "pancakeswap-extended": {
-    list: pancakeswapExtended,
-    name: "PancakeSwap Extended",
-    keywords: ["pancakeswap", "extended"],
+  "nexdex-extended": {
+    list: nexdexExtended,
+    name: "NexDex Extended",
+    keywords: ["nexdex", "extended"],
     logoURI:
       "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     sort: true,
-    currentVersion: pancakeswapExtendedVersion,
+    currentVersion: nexdexExtendedVersion,
   },
-  "pancakeswap-top-100": {
-    list: pancakeswapTop100,
-    name: "PancakeSwap Top 100",
-    keywords: ["pancakeswap", "top 100"],
+  "nexdex-top-100": {
+    list: nexdexTop100,
+    name: "NexDex Top 100",
+    keywords: ["nexdex", "top 100"],
     logoURI:
       "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     sort: true,
-    currentVersion: pancakeswapTop100Version,
+    currentVersion: nexdexTop100Version,
   },
-  "pancakeswap-top-15": {
-    list: pancakeswapTop15,
-    name: "PancakeSwap Top 15",
-    keywords: ["pancakeswap", "top 15"],
+  "nexdex-top-15": {
+    list: nexdexTop15,
+    name: "NexDex Top 15",
+    keywords: ["nexdex", "top 15"],
     logoURI:
       "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
     sort: true,
-    currentVersion: pancakeswapTop15Version,
+    currentVersion: nexdexTop15Version,
   },
 };
 

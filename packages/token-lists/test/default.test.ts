@@ -4,17 +4,17 @@ import fs from "fs";
 import path from "path";
 import { getAddress } from "@ethersproject/address";
 import { schema } from "@uniswap/token-lists";
-import currentPancakeswapDefaultList from "../lists/pancakeswap-default.json";
-import currentPancakeswapExtendedtList from "../lists/pancakeswap-extended.json";
-import currentPancakeswapTop15List from "../lists/pancakeswap-top-15.json";
-import currentPancakeswapTop100tList from "../lists/pancakeswap-top-100.json";
+import currentPancakeswapDefaultList from "../lists/nexdex-default.json";
+import currentPancakeswapExtendedtList from "../lists/nexdex-extended.json";
+import currentPancakeswapTop15List from "../lists/nexdex-top-15.json";
+import currentPancakeswapTop100tList from "../lists/nexdex-top-100.json";
 import { buildList, VersionBump } from "../src/buildList";
 
 const currentLists = {
-  "pancakeswap-default": currentPancakeswapDefaultList,
-  "pancakeswap-extended": currentPancakeswapExtendedtList,
-  "pancakeswap-top-100": currentPancakeswapTop100tList,
-  "pancakeswap-top-15": currentPancakeswapTop15List,
+  "nexdex-default": currentPancakeswapDefaultList,
+  "nexdex-extended": currentPancakeswapExtendedtList,
+  "nexdex-top-100": currentPancakeswapTop100tList,
+  "nexdex-top-15": currentPancakeswapTop15List,
 };
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
@@ -84,7 +84,7 @@ expect.extend({
     const hasTWLogo =
       token.logoURI === `https://assets.trustwalletapp.com/blockchains/smartchain/assets/${token.address}/logo.png`;
     let hasLocalLogo = false;
-    const refersToLocalLogo = token.logoURI === `https://tokens.pancakeswap.finance/images/${token.address}.png`;
+    const refersToLocalLogo = token.logoURI === `https://tokens.nexdex.finance/images/${token.address}.png`;
     if (refersToLocalLogo) {
       const fileName = token.logoURI.split("/").pop();
       // Note: fs.existsSync can't be used here because its not case sensetive
@@ -103,7 +103,7 @@ expect.extend({
   },
 });
 
-describe.each([["pancakeswap-default"], ["pancakeswap-extended"], ["pancakeswap-top-100"], ["pancakeswap-top-15"]])(
+describe.each([["nexdex-default"], ["nexdex-extended"], ["nexdex-top-100"], ["nexdex-top-15"]])(
   "buildList %s",
   (listName) => {
     const defaultTokenList = buildList(listName);

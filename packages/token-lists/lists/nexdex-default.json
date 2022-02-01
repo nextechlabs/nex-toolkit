@@ -1,0 +1,32 @@
+{
+  "name": "NexDex Default",
+  "timestamp": "2022-02-01T07:44:01.862Z",
+  "version": {
+    "major": 2,
+    "minor": 15,
+    "patch": 5
+  },
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "keywords": [
+    "nexdex",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "WONE Token",
+      "symbol": "WONE",
+      "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://tokens.nexdex.finance/images/0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a.png"
+    },
+    {
+      "name": "XP",
+      "symbol": "1XP",
+      "address": "0x1ba2FD56556D38ea0837CEf4371423Db1F7BE4bf",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://tokens.nexdex.finance/images/0x1ba2FD56556D38ea0837CEf4371423Db1F7BE4bf.png"
+    }
+  ]
+}
