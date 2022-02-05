@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [2.19.0](https://github.com/Chef-Cheems/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.6...@pancakeswap/token-lists@2.19.0) (2021-10-28)
+# [2.19.0](https://github.com/Chef-Cheems/pancake-toolkit/compare/@nextechlabs/token-lists@2.18.6...@nextechlabs/token-lists@2.19.0) (2021-10-28)
 
 
 ### Features
@@ -19,23 +19,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.18.6](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.5...@pancakeswap/token-lists@2.18.6) (2021-09-28)
+## [2.18.6](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.5...@nextechlabs/token-lists@2.18.6) (2021-09-28)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
-
-
-
-
-
-## [2.18.5](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.4...@pancakeswap/token-lists@2.18.5) (2021-09-20)
-
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.18.4](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.3...@pancakeswap/token-lists@2.18.4) (2021-09-17)
+## [2.18.5](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.4...@nextechlabs/token-lists@2.18.5) (2021-09-20)
+
+**Note:** Version bump only for package @nextechlabs/token-lists
+
+
+
+
+
+## [2.18.4](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.3...@nextechlabs/token-lists@2.18.4) (2021-09-17)
 
 
 ### Bug Fixes
@@ -46,31 +46,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.18.3](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.2...@pancakeswap/token-lists@2.18.3) (2021-09-13)
+## [2.18.3](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.2...@nextechlabs/token-lists@2.18.3) (2021-09-13)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
-
-
-
-
-
-## [2.18.2](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.1...@pancakeswap/token-lists@2.18.2) (2021-09-09)
-
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.18.1](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.18.0...@pancakeswap/token-lists@2.18.1) (2021-09-06)
+## [2.18.2](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.1...@nextechlabs/token-lists@2.18.2) (2021-09-09)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
-
-
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
-# [2.18.0](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.13...@pancakeswap/token-lists@2.18.0) (2021-08-27)
+
+
+## [2.18.1](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.18.0...@nextechlabs/token-lists@2.18.1) (2021-09-06)
+
+**Note:** Version bump only for package @nextechlabs/token-lists
+
+
+
+
+
+# [2.18.0](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.13...@nextechlabs/token-lists@2.18.0) (2021-08-27)
 
 
 ### Bug Fixes
@@ -87,95 +87,95 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.17.13](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.12...@pancakeswap/token-lists@2.17.13) (2021-08-19)
+## [2.17.13](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.12...@nextechlabs/token-lists@2.17.13) (2021-08-19)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.12](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.11...@pancakeswap/token-lists@2.17.12) (2021-08-11)
+## [2.17.12](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.11...@nextechlabs/token-lists@2.17.12) (2021-08-11)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.11](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.10...@pancakeswap/token-lists@2.17.11) (2021-08-05)
+## [2.17.11](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.10...@nextechlabs/token-lists@2.17.11) (2021-08-05)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.10](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.9...@pancakeswap/token-lists@2.17.10) (2021-08-02)
+## [2.17.10](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.9...@nextechlabs/token-lists@2.17.10) (2021-08-02)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.9](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.8...@pancakeswap/token-lists@2.17.9) (2021-07-29)
+## [2.17.9](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.8...@nextechlabs/token-lists@2.17.9) (2021-07-29)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.8](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.7...@pancakeswap/token-lists@2.17.8) (2021-07-28)
+## [2.17.8](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.7...@nextechlabs/token-lists@2.17.8) (2021-07-28)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.7](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.6...@pancakeswap/token-lists@2.17.7) (2021-07-21)
+## [2.17.7](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.6...@nextechlabs/token-lists@2.17.7) (2021-07-21)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.6](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.5...@pancakeswap/token-lists@2.17.6) (2021-07-16)
+## [2.17.6](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.5...@nextechlabs/token-lists@2.17.6) (2021-07-16)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.5](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.4...@pancakeswap/token-lists@2.17.5) (2021-07-13)
+## [2.17.5](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.4...@nextechlabs/token-lists@2.17.5) (2021-07-13)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.4](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.3...@pancakeswap/token-lists@2.17.4) (2021-07-09)
+## [2.17.4](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.3...@nextechlabs/token-lists@2.17.4) (2021-07-09)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-## [2.17.3](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.0...@pancakeswap/token-lists@2.17.3) (2021-07-09)
+## [2.17.3](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.17.0...@nextechlabs/token-lists@2.17.3) (2021-07-09)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-# [2.17.0](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.16.1...@pancakeswap/token-lists@2.17.0) (2021-06-30)
+# [2.17.0](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.16.1...@nextechlabs/token-lists@2.17.0) (2021-06-30)
 
 
 ### Features
@@ -186,15 +186,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.16.1](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.15.4...@pancakeswap/token-lists@2.16.1) (2021-06-21)
+## [2.16.1](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.15.4...@nextechlabs/token-lists@2.16.1) (2021-06-21)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
-
-
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
-## [2.15.4](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.15.0...@pancakeswap/token-lists@2.15.4) (2021-06-17)
+
+
+## [2.15.4](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.15.0...@nextechlabs/token-lists@2.15.4) (2021-06-17)
 
 
 ### Bug Fixes
@@ -205,7 +205,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.15.0](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.14.4...@pancakeswap/token-lists@2.15.0) (2021-06-14)
+# [2.15.0](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.14.4...@nextechlabs/token-lists@2.15.0) (2021-06-14)
 
 
 ### Features
@@ -216,23 +216,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.14.4](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.14.3...@pancakeswap/token-lists@2.14.4) (2021-06-11)
+## [2.14.4](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.14.3...@nextechlabs/token-lists@2.14.4) (2021-06-11)
 
-**Note:** Version bump only for package @pancakeswap/token-lists
-
-
-
-
-
-## [2.14.3](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.14.0...@pancakeswap/token-lists@2.14.3) (2021-06-09)
-
-**Note:** Version bump only for package @pancakeswap/token-lists
+**Note:** Version bump only for package @nextechlabs/token-lists
 
 
 
 
 
-# [2.14.0](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.11.0...@pancakeswap/token-lists@2.14.0) (2021-06-08)
+## [2.14.3](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.14.0...@nextechlabs/token-lists@2.14.3) (2021-06-09)
+
+**Note:** Version bump only for package @nextechlabs/token-lists
+
+
+
+
+
+# [2.14.0](https://github.com/nextechlabs/nex-toolkit/compare/@nextechlabs/token-lists@2.11.0...@nextechlabs/token-lists@2.14.0) (2021-06-08)
 
 
 ### Bug Fixes
