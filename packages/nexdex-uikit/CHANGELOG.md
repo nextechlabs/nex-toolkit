@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.64.0 (2022-02-11)
+
+
+### Features
+
+* Changed package references from pancakseswap to nextechlabs ([5907973](https://github.com/nextechlabs/nexdex-toolkit/tree/master/packages/nexdex-uikit/commit/5907973263e6f2ef8dfcd3b18ad8520bfea6b346))
+
+
+
+
+
 ## [0.63.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.63.0...@pancakeswap/uikit@0.63.1) (2022-01-16)
 
 
