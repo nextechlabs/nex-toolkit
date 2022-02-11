@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2022-02-11)
+
+
+### Features
+
+* Changed package references from pancakseswap to nextechlabs ([cf3f0da](https://github.com/nextechlabs/nexdex-toolkit/tree/master/packages/nexdex-uikit/commit/cf3f0dae6351385bcab28f1a08274b4dc89d5fed))
+* Changed package references from pancakseswap to nextechlabs ([5907973](https://github.com/nextechlabs/nexdex-toolkit/tree/master/packages/nexdex-uikit/commit/5907973263e6f2ef8dfcd3b18ad8520bfea6b346))
+
+
+
+
+
 # 0.64.0 (2022-02-11)
 
 
