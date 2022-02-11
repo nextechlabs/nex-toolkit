@@ -40,5 +40,6 @@
   "dependencies": {
     "@types/js-cookie": "^2.2.6",
     "js-cookie": "^2.2.1"
-  }
+  },
+  "gitHead": "f43ca6559b73a1daebcb28ad98037f75cc9ef5b6"
 }

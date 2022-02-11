@@ -1,6 +1,6 @@
 {
-  "name": "@nextechlabs/uikit",
-  "version": "0.64.0",
+  "name": "@nextechlabs/nexdex-uikit",
+  "version": "0.1.3",
   "description": "Set of UI components for nexdex projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -52,5 +52,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "f43ca6559b73a1daebcb28ad98037f75cc9ef5b6"
 }
