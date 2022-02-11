@@ -3232,6 +3232,20 @@
     headers-utils "^3.0.2"
     strict-event-emitter "^0.2.0"
 
+"@nextechlabs/eslint-config-nexdex@1.2.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@nextechlabs/eslint-config-nexdex/1.0.0/9433537a9bdd253756f357df32df303980a200f4fcac5631755dade675d3805c#86e74b987547a77af81dc2a98fafa48c6f007122"
+  integrity sha512-TXvgTwG01ExP8nluUeoM+iYcDMyZ0roiiTt7wM6IjN/AXVX2oi3cFgQG4drX+KrUiSmC/jdZ71kSoTYajv9Vdw==
+  dependencies:
+    "@typescript-eslint/eslint-plugin" "^4.7.0"
+    "@typescript-eslint/parser" "^4.7.0"
+    eslint-config-airbnb "^18.2.1"
+    eslint-config-prettier "^6.15.0"
+    eslint-plugin-import "^2.22.1"
+    eslint-plugin-jsx-a11y "^6.4.1"
+    eslint-plugin-react "^7.21.5"
+    eslint-plugin-react-hooks "^4.0.0"
+
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.4.tgz#d4b3549a5db5de2683e0c1071ab4f140904bbf69"
