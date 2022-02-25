@@ -3232,9 +3232,9 @@
     headers-utils "^3.0.2"
     strict-event-emitter "^0.2.0"
 
-"@nextechlabs/eslint-config-nexdex@1.2.0":
+"@nextechlabs/eslint-config-nex@1.2.0":
   version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@nextechlabs/eslint-config-nexdex/1.0.0/9433537a9bdd253756f357df32df303980a200f4fcac5631755dade675d3805c#86e74b987547a77af81dc2a98fafa48c6f007122"
+  resolved "https://npm.pkg.github.com/download/@nextechlabs/eslint-config-nex/1.0.0/9433537a9bdd253756f357df32df303980a200f4fcac5631755dade675d3805c#86e74b987547a77af81dc2a98fafa48c6f007122"
   integrity sha512-TXvgTwG01ExP8nluUeoM+iYcDMyZ0roiiTt7wM6IjN/AXVX2oi3cFgQG4drX+KrUiSmC/jdZ71kSoTYajv9Vdw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.7.0"
