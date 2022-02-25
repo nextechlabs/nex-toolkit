@@ -1,12 +1,12 @@
 {
-  "name": "@nextechlabs/eslint-config-nexdex",
+  "name": "@nextechlabs/eslint-config-nex",
   "version": "1.1.2",
   "description": "Eslint config for NexDex",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/nextechlabs/nexdex-toolkit/tree/master/packages/eslint-config-nexdex",
+  "repository": "https://github.com/nextechlabs/nexdex-toolkit/tree/master/packages/eslint-config-nex",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
